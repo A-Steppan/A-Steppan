@@ -1,2 +1,2 @@
 # Andrew S
-My name is Andrew, welcome to my Github profile
+Hi there, my name is Andrew, welcome to my Github profile
